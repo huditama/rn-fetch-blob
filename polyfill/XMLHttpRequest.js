@@ -4,7 +4,8 @@
 
 // import RNFetchBlob from '../index.js'
 import { NativeModules } from 'react-native';
-const RNFetchBlob = NativeModules.RNFetchBlobimport XMLHttpRequestEventTarget from './XMLHttpRequestEventTarget.js'
+const RNFetchBlob = NativeModules.RNFetchBlobimport
+import XMLHttpRequestEventTarget from './XMLHttpRequestEventTarget.js'
 import Log from '../utils/log.js'
 import Blob from './Blob.js'
 import ProgressEvent from './ProgressEvent.js'
