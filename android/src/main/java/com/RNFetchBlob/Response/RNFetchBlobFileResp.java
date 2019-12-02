@@ -1,6 +1,6 @@
 package com.RNFetchBlob.Response;
 
-import androidx.core.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.RNFetchBlob.RNFetchBlobConst;
